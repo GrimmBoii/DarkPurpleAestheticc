@@ -2,7 +2,8 @@
     "manifest": {
         "author": "『old enough to understand』#4012",
         "name": "DarkPurpleAestheticc",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/GrimmBoii\/DarkPurpleAestheticc\/main\/DarkPurpleAestheticc.json?token=GHSAT0AAAAAABSRCBLK3A62NAC"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/868419532992172073\/953115122178605136\/2022-03-14-22-18-32-010.jpg",
