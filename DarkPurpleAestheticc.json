@@ -1,0 +1,27 @@
+{
+    "manifest": {
+        "author": "『old enough to understand』#4012",
+        "name": "DarkPurpleAestheticc",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/868419532992172073\/953115122178605136\/2022-03-14-22-18-32-010.jpg",
+        "blur_radius": 1,
+        "overlay_alpha": 25
+    },
+    "fonts": {
+        "*": "https:\/\/media.discordapp.net\/attachments\/868419532992172073\/953151066650853386\/Vonique_92_glyph_map.png"
+    },
+    "simple_colors": {
+        "accent": 2118388828,
+        "background_secondary": 209993124,
+        "background": 15263464,
+        "input_background": 1719942564
+    },
+    "colors": {
+        "abc_primary_text_material_dark": -10805130,
+        "abc_tint_switch_track": -10805130
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
